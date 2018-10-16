@@ -20,8 +20,14 @@
     "webpack": "^4.19.1",
     "webpack-cli": "^3.1.1",
     "webpack-dev-server": "^3.1.8",
-    "react":"^16.5.2",
-    "react-dom":"^16.5.2",
-    "react-hot-loader":"^4.3.11"
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-hot-loader": "^4.3.11"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "knex": "^0.15.2",
+    "mysql": "^2.16.0"
   }
 }
